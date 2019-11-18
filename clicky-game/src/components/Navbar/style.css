@@ -1,0 +1,33 @@
+nav {
+    color: yellow;
+    background-color: black;
+    font-size: 3rem;
+}
+
+nav li {
+    transition: color .4s;
+}
+
+nav li.correct {
+    color: green;
+    transition: color .25s;
+}
+
+nav li.incorrect {
+    color: red;
+    transition: color .25s;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}

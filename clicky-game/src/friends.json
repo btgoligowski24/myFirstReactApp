@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "name": "Bill Dauterive",
+    "image": "./assets/images/Bill_Dauterive.png"
+  },
+  {
+    "id": 2,
+    "name": "Bobby Hill",
+    "image": "./assets/images/Bobby.png"
+  },
+  {
+    "id": 3,
+    "name": "Connie",
+    "image": "./assets/images/Connie.png"
+  },
+  {
+    "id": 4,
+    "name": "Cotton",
+    "image": "./assets/images/Cotton.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dale Gribble",
+    "image": "./assets/images/Dale_Gribble.png"
+  },
+  {
+    "id": 6,
+    "name": "Didi Hill",
+    "image": "./assets/images/Didi_Hill.png"
+  },
+  {
+    "id": 7,
+    "name": "Hank Hill",
+    "image": "./assets/images/Hank_Hill.png"
+  },
+  {
+    "id": 8,
+    "name": "Joseph Gribble",
+    "image": "./assets/images/Joseph.jpg"
+  },
+  {
+    "id": 9,
+    "name": "John Redcorn",
+    "image": "./assets/images/John-redcorn.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Khan",
+    "image": "./assets/images/Khan.png"
+  },
+  {
+    "id": 11,
+    "name": "Mr. Strickland",
+    "image": "./assets/images/Strickland.png"
+  },
+  {
+    "id": 12,
+    "name": "Luanne",
+    "image": "./assets/images/Luanne.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Lucky",
+    "image": "./assets/images/Lucky.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Minh",
+    "image": "./assets/images/Minh.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Peggy Hill",
+    "image": "./assets/images/Peggy-hill.jpg"
+  }
+]
