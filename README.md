@@ -7,7 +7,6 @@ This app is a basic React app. It's teaching me the basics of the React framewor
 The app is organized by components.
 
 ## How to Use the App
-1. Navigate to https://blooming-scrubland-09657.herokuapp.com/
 1. Start the game by clicking any image on the screen.
 1. Continue by clicking other images on the screen but be careful not to click one that you have already clicked or you have to start over again.
 1. The max score is 15 (i.e. successfully clicking on each image once in succession).
